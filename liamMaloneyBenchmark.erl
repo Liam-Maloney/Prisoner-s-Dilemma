@@ -2,7 +2,7 @@
 
 %%%-------------------------------------------------------------------
 %%% @author Liam
-%%% @copyright (C) 2017, <COMPANY>
+%%% @copyright (C) 2017, <liam@liammaloney.ie>
 %%% @doc
 %%%     This file is designed to be the entry point of the benchmarking
 %%%     of the simple and advanced versions of the iterative prisoners

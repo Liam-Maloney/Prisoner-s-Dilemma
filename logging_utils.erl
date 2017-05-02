@@ -1,6 +1,6 @@
 %%%-------------------------------------------------------------------
 %%% @author Liam Maloney
-%%% @copyright (C) 2017, <COMPANY>
+%%% @copyright (C) 2017, <liam@liammaloney.ie>
 %%% @doc
 %%%     The following contains convenience functions for log formatting.
 %%% @end
@@ -10,7 +10,6 @@
 -module(logging_utils).
 
 -author("Liam Maloney").
--student_number("C00179434").
 
 -export([logFormat/3]).
 

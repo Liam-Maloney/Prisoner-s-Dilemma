@@ -1,5 +1,5 @@
 %%%-------------------------------------------------------------------
-%%% @author Joseph Kehoe <joseph@joseph-XPS-8500>, Liam Maloney <c00179434@itcarlow.ie>
+%%% @author Joseph Kehoe <joseph@joseph-XPS-8500>, Liam Maloney <liam@liammaloney.ie>
 %%% @copyright (C) 2016, Joseph Kehoe
 %%% @doc
 %%%

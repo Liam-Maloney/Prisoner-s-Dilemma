@@ -1,6 +1,6 @@
 %%%-------------------------------------------------------------------
 %%% @author Liam Maloney
-%%% @copyright (C) 2017, <COMPANY>
+%%% @copyright (C) 2017, <liam@liammaloney.ie>
 %%% @doc
 %%%     The following contains macros to make logging cleaner.
 %%% @end
@@ -8,7 +8,6 @@
 %%%-------------------------------------------------------------------
 
 -author("Liam Maloney").
--student_number("C00179434").
 
 -ifdef(debug).
 -define(LOG(Location, Log),             logging_utils:logFormat("LOG: ",              Location, Log)).

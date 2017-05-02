@@ -1,6 +1,6 @@
 %%%-------------------------------------------------------------------
 %%% @author Liam
-%%% @copyright (C) 2016, <COMPANY>
+%%% @copyright (C) 2016, <liam@liammaloney.ie>
 %%% @doc
 %%%     A file to run the benchmark suites based on the inputs from
 %%%     the console.
@@ -10,10 +10,8 @@
 -module(benchmarking).
 
 -author("Liam Maloney").
--student_number("C00179434").
 
 -export([benchmarking/2, customProgrammaticBench/0]).
--student_number("C00179434").
 
 
 customProgrammaticBench() ->

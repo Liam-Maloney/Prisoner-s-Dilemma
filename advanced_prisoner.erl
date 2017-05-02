@@ -13,7 +13,6 @@
 -module(advanced_prisoner).
 
 -author("Liam Maloney").
--student_number("C00179434").
 
 -export([
   start/2, titForTat/1, suspiciousTitForTat/1,

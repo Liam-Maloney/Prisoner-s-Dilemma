@@ -13,7 +13,6 @@
 -module(advanced_warden).
 
 -author("Liam Maloney").
--student_number("C00179434").
 
 -export([start/0, gameSupervisor/3, warden/0, playGameNTimes/3, createETSTablesUnder/2]).
 

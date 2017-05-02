@@ -1,5 +1,5 @@
 %%%-------------------------------------------------------------------
-%%% @author Liam Maloney <C00179434@itcarlow.ie>
+%%% @author Liam Maloney <liam@liammaloney.ie>
 %%% @copyright (C) 2016, Liam Maloney
 %%% @doc
 %%%     A simple implementation of a Prisoner
